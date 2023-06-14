@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jon-butterworth](https://github.com/jon-butterworth)
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **DevOps**, **Rust**, **Software Engineering**
 
 - 📫 How to reach me **jon@jonbut.com**
 
