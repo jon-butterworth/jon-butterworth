@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jon-butterworth" alt="jon-butterworth" /></a> </p>
 
-- 🔭 I’m currently working on [rust-auth-svc](https://github.com/jon-butterworth/rust-auth-svc)
-
 - 👨‍💻 All of my projects are available at [https://github.com/jon-butterworth](https://github.com/jon-butterworth)
 
 - 💬 Ask me about **DevOps**, **Rust**, **Software Engineering**
